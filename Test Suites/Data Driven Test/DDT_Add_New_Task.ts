@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>DDT_Add_New_Task</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>17dc9fd6-6019-4128-ad59-ba6b2242a37e</testSuiteGuid>
+   <testCaseLink>
+      <guid>7ce88406-303e-496f-acc4-7a5ccce0c842</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Test Case/Positive/TC001_Add_New_task</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>09237cdf-514c-4b42-88b2-dc07760a45a4</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Test Data/Internal Data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>09237cdf-514c-4b42-88b2-dc07760a45a4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>kategoriTarget</value>
+         <variableId>0d8aee13-c884-4f59-9e97-b15588854695</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>09237cdf-514c-4b42-88b2-dc07760a45a4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>taskTitle</value>
+         <variableId>cc220fc6-480d-4032-9055-0d56d1cb6d24</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>09237cdf-514c-4b42-88b2-dc07760a45a4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>task</value>
+         <variableId>95e643fd-88c0-4acc-a123-94eea8b435bd</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

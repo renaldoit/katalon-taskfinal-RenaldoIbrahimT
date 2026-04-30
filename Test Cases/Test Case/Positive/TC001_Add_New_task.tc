@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_Add_New_task</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>986942e6-3c20-4a2a-aeb0-dd48097de852</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0d8aee13-c884-4f59-9e97-b15588854695</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cc220fc6-480d-4032-9055-0d56d1cb6d24</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>95e643fd-88c0-4acc-a123-94eea8b435bd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Sendiri'</defaultValue>
+      <description></description>
+      <id>0d8aee13-c884-4f59-9e97-b15588854695</id>
+      <masked>false</masked>
+      <name>kategoriTarget</name>
+   </variable>
+   <variable>
+      <defaultValue>'Task Sendiri'</defaultValue>
+      <description></description>
+      <id>cc220fc6-480d-4032-9055-0d56d1cb6d24</id>
+      <masked>false</masked>
+      <name>taskTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'Task Sendiri'</defaultValue>
+      <description></description>
+      <id>95e643fd-88c0-4acc-a123-94eea8b435bd</id>
+      <masked>false</masked>
+      <name>task</name>
+   </variable>
+</TestCaseEntity>
